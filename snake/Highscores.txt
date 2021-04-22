@@ -1,0 +1,6 @@
+Name,Score
+G_Man,50
+Godly_Person,30
+Snake,22
+CJ,15
+Apples,3
